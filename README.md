@@ -1,2 +1,2 @@
 # bz
-# This Is My Repo Project!
+# this is my repo project!
