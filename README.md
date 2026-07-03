@@ -1,2 +1,2 @@
 # bz
-# this is my reppo project !
+# This Is My Repo Project!
