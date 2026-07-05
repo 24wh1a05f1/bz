@@ -1,15 +1,15 @@
 const users = [
   {
-    "name" :"Jane Doe",
-    "gender" : "Female",
-    "image" : "../images/jane.png"
+    name: "Jane Doe",
+    gender: "Female",
+    image: "jane.png"
   },
   {
-    "name" :"John Doe",
-    "gender" : "Male",
-    "image" : "../images/john.png"
+    name: "John Doe",
+    gender: "Male",
+    image: "john.png"
   },
-]
+];
 let curUserId = 0;
 function toggle(){
   if(curUserId == 0)
