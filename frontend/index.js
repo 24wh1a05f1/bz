@@ -20,6 +20,8 @@ function toggle(){
   document.getElementById("img").src=users[curUserId].image;
   // name
   document.getElementById("card-name").innerText=users[curUserId].name;
+  // gender
+document.getElementById("card-gender").innerText = users[curUserId].gender;
 }
 
 console.log("Hello from JS");
